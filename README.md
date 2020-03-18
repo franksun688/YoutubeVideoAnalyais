@@ -8,8 +8,8 @@ Date: March 2020
 
 File structure:
 
-code: code for web scraping and data analysis
+~/code : code for web scraping and data analysis
 
-raw data: raw results from web scraping
+~/rawdata : raw results from web scraping
 
-data: cleaned data and results from data analysis
+~/data : cleaned data and results from data analysis
