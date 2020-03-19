@@ -35,6 +35,6 @@ The rest of the documentation along with visualization will be included in the i
 
 2. Data cleaning 
 
-3.  EDA
+3. Exploratory Data Analysis
 
-3. Statistical Analysis
+4. Statistical Analysis
