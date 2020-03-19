@@ -39,7 +39,7 @@ The rest of the documentation along with visualization will be included in the i
 
 4.Model Statistical Analysis
 
-5. Conclusion
+5.Conclusion
 
 This project concentrates on the analysis of YouTube video data collected under the searching key word: coronavirus, we try to figure out the variation of people’s attention and what the most of audiences care about this current coronavirus situation. 
 
