@@ -1,4 +1,4 @@
-# YoutubeVideoAnalyais
+# YoutubeVideoAnalysis
 
 Statistical analysis of Youtube search results for 'coronavirus' in early March 2020.
 
