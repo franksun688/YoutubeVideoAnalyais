@@ -23,7 +23,7 @@ Due to the outbreak of the Coronavirus, people over the globe are eagered to acc
 
 Main components:
 
-1. Web scraping
+1. Web scraping (youtube_scrape_2.py)
 
 We focused on YouTube video search results of key word ‘coronavirus’. Using BeautifulSoup html scraper and chrome engine, we extracted data from the search result starting around March 10. 
 
@@ -41,8 +41,10 @@ The outcome from the web scraping would include a list of csv files that reflect
 
 The rest of the documentation along with visualization will be included in the individual notebook files.
 
-2. Data cleaning 
+2. Data cleaning (Video_NLP - corrected.ipynb)
 
-3. Exploratory Data Analysis
+3. Exploratory Data Analysis (EDA.ipynb)
 
-4. Statistical Analysis
+4. Statistical Analysis (Models.ipynb)
+
+5. Conclusion
