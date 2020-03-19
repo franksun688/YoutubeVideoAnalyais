@@ -16,7 +16,12 @@ File structure:
 
 Main components:
 
+<<<<<<< HEAD
 1. Web scraping (youtube_scrape_2.py)
+=======
+
+#1. Web scraping
+>>>>>>> 50370a2fd092a033928d05866c8a04b0cd87879e
 
 We focused on YouTube video search results of keyword ‘coronavirus’. Due to the worldwide outbreak of the COVID-19, we were interested in how people react to the epidemic in terms of video uploading, views, attitude and so on.
 
@@ -34,6 +39,7 @@ The outcome from the web scraping would include a list of csv files that reflect
 The rest of the documentation along with visualization will be included in the individual notebook files.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 2. Data cleaning (Video_NLP - corrected.ipynb)
 
 3. Exploratory Data Analysis (EDA.ipynb)
@@ -43,12 +49,15 @@ The rest of the documentation along with visualization will be included in the i
 5. Conclusion
 =======
 2.Data cleaning and NLP
+=======
+#2.Data cleaning and NLP
+>>>>>>> 50370a2fd092a033928d05866c8a04b0cd87879e
 
-3.EDA
+#3.EDA
 
-4.Model Statistical Analysis
+#4.Model Statistical Analysis
 
-5.Conclusion
+#5.Conclusion
 
 This project concentrates on the analysis of YouTube video data collected under the searching key word: coronavirus, we try to figure out the variation of people’s attention and what the most of audiences care about this current coronavirus situation. 
 
