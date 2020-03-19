@@ -17,7 +17,7 @@ File structure:
 Main components:
 
 
-1. Web scraping
+1. Web scraping - 'youtube_scrape_2.py'
 
 We focused on YouTube video search results of keyword ‘coronavirus’. Due to the worldwide outbreak of the COVID-19, we were interested in how people react to the epidemic in terms of video uploading, views, attitude and so on.
 
@@ -34,11 +34,11 @@ The outcome from the web scraping would include a list of csv files that reflect
 
 The rest of the documentation along with visualization will be included in the individual notebook files.
 
-2.Data cleaning and NLP
+2.Data cleaning and NLP - 'Video_cleaning.ipynb'
 
-3.EDA
+3.EDA - 'EDA.ipynb'
 
-4.Model Statistical Analysis
+4.Model Statistical Analysis - 'Models.ipynb'
 
 5.Conclusion
 
